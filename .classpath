@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="H:/code/微课程/Microlecture/json.jar"/>
+	<classpathentry kind="lib" path="H:/code/微课程/Microlecture/servlet-api.jar"/>
+	<classpathentry kind="lib" path="H:/code/微课程/Microlecture/sqljdbc4.jar"/>
+	<classpathentry kind="lib" path="H:/code/微课程/Microlecture/gson-2.2.4.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="WebContent/WEB-INF/classes"/>
+</classpath>
